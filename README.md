@@ -1,6 +1,5 @@
 ## The provided code generates histograms to visualize the distribution of numerical data in a dataset using Python libraries like Pandas and Seaborn. It performs the following tasks:
 
-# 0x0E. SQL - More queries 
 
 - Imports necessary libraries such as Pandas, Matplotlib, and Seaborn.
 - Reads a CSV file containing data into a Pandas DataFrame for analysis.
