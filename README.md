@@ -1,5 +1,7 @@
-## The provided code generates histograms to visualize the distribution of numerical data in a dataset using Python libraries like Pandas and Seaborn. It performs the following tasks:
+## The provided code generates histograms to visualize the distribution of numerical data in a dataset using Python libraries like Pandas and Seaborn. 
 
+
+### It performs the following tasks:
 
 - Imports necessary libraries such as Pandas, Matplotlib, and Seaborn.
 - Reads a CSV file containing data into a Pandas DataFrame for analysis.
@@ -7,7 +9,14 @@
 - Prints lists of numerical and categorical columns.
 - Creates histograms for each numerical column using Seaborn's `sns.histplot()` function.
 - Saves the histograms as image files in an 'output' directory.
-- Closes each plot after saving to prepare for the next one.
+- Closes each plot after saving to prepare for the next one. 
+
+ <p><strong>Repo:</strong></p>
+        <ul>
+          <li>GitHub repository: <code>EDA</code></li>
+            <li>Directory: <code>Histograms</code></li>
+            <li>File: <code>data-set.py</code></li>
+        </ul>
 
 ---
 
