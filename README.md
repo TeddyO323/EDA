@@ -26,56 +26,56 @@
  - This histogram illustrates the distribution of area codes in the dataset. 
  - The x-axis represents area codes, while the y-axis represents frequency. 
  - It shows the distribution of customers across different area codes.
-
+---
 #### Distribution of Number of Voicemail Messages
 ![Alt text](<figures/Number vmail messages_countplot.png>)
 
 -  This histogram shows the distribution of the number of voicemail messages for customers. 
 -  The x-axis represents the number of voicemail messages, while the y-axis represents frequency. 
 -  It provides insights into how many voicemail messages customers typically receive.
-
+---
 #### Distribution of Total Day Minutes
 ![Alt text](<figures/Total day minutes_countplot.png>)
 
 -  This histogram depicts the distribution of total day minutes used by customers. 
 -  The x-axis represents the total day minutes, while the y-axis represents frequency. 
 -  It helps analyze the distribution of daytime call durations.
-
+---
 #### Distribution of Total Day Calls
 ![Alt text](<figures/Total day calls_countplot.png>)
 
 -  This histogram visualizes the distribution of total day calls made by customers. 
 -  The x-axis represents the total day calls, while the y-axis represents frequency. 
 -  It provides insights into the number of daytime calls.
-
+---
 #### Distribution of Total Day Charge
 ![Alt text](<figures/Total day charge_countplot.png>)
 
 -  This histogram displays the distribution of total day charges incurred by customers. 
 -  The x-axis represents the total day charges, while the y-axis represents frequency. 
 -  It helps analyze the distribution of daytime call charges.
-
+---
 #### Distribution of Total Evening Minutes
 ![Alt text](<figures/Total eve minutes_countplot.png>)
 
 -  This histogram shows the distribution of total evening minutes used by customers. 
 -  The x-axis represents the total evening minutes, while the y-axis represents frequency. 
 -  It provides insights into evening call durations.
-
+---
 #### Distribution of Total Evening Calls
 ![Alt text](<figures/Total eve calls_countplot.png>)
 
 -  This histogram illustrates the distribution of total evening calls made by customers. 
 -  The x-axis represents the total evening calls, while the y-axis represents frequency. 
 -  It helps analyze the distribution of evening call activity.
-
+---
 #### Distribution of Total Evening Charge
 ![Alt text](<figures/Total eve charge_countplot.png>)
 
 -  This histogram visualizes the distribution of total evening charges incurred by customers. 
 -  The x-axis represents the total evening charges, while the y-axis represents frequency. 
 -  It helps analyze the distribution of evening call charges.
-
+---
 #### Distribution of Total Night Minutes
 ![Alt text](<figures/Total night minutes_countplot.png>)
 
@@ -83,14 +83,14 @@
 -  This histogram depicts the distribution of total night minutes used by customers. 
 -  The x-axis represents the total night minutes, while the y-axis represents frequency. 
 -  It provides insights into nighttime call durations.
-
+---
 #### Distribution of Total Night Calls
 ![Alt text](<figures/Total night calls_countplot.png>)
 
 -  This histogram displays the distribution of total night calls made by customers. 
 -  The x-axis represents the total night calls, while the y-axis represents frequency. 
 -  It helps analyze the distribution of nighttime call activity.
-
+---
 #### Distribution of Total Night Charge
 
 ![Alt text](<figures/Total night charge_countplot.png>)
@@ -98,14 +98,14 @@
 -  This histogram shows the distribution of total night charges incurred by customers. 
 -  The x-axis represents the total night charges, while the y-axis represents frequency. 
 -  It helps analyze the distribution of nighttime call charges.
-
+---
 #### Distribution of Total International Minutes
 ![Alt text](<figures/Total intl minutes_countplot.png>)
 
 -  This histogram illustrates the distribution of total international minutes used by customers. 
 -  The x-axis represents the total international minutes, while the y-axis represents frequency. 
 -  It provides insights into international call durations.
-
+---
 #### Distribution of Total International Calls
 
 ![Alt text](<figures/Total intl calls_countplot.png>)
@@ -113,7 +113,7 @@
 -  This histogram visualizes the distribution of total international calls made by customers. 
 -  The x-axis represents the total international calls, while the y-axis represents frequency. 
 -  It helps analyze international call activity.
-
+---
 #### Distribution of Total International Charge
 
 ![Alt text](<figures/Total intl charge_countplot.png>)
