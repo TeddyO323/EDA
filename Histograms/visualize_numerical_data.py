@@ -7,6 +7,7 @@ from sklearn.model_selection import train_test_split  # Import train_test_split 
 from sklearn.linear_model import LogisticRegression  # Import the LogisticRegression model for classification.
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix  # Import metrics for model evaluation.
 
+
 # Define file paths for training and test datasets.
 file_path_training = "C:/Users/omosh/OneDrive/Documents/yESA/archive/churn-bigml-20.csv"
 file_path_test = "C:/Users/omosh/OneDrive/Documents/yESA/archive/churn-bigml-20.csv"
@@ -33,14 +34,23 @@ categorical_columns = df.select_dtypes(exclude=['number']).columns.tolist()
 print("Numerical Columns:", numerical_columns)
 print("Categorical Columns:", categorical_columns)
 
-# Create histograms to visualize the distribution of numerical columns.
-for column in numerical_columns:
-    plt.figure(figsize=(8, 6))  # Set the size of the plot.
-    sns.histplot(data=df, x=column, bins=20, kde=True, color='red')  # Create a histogram using Seaborn.
-    plt.xlabel(column)  # Set the x-axis label.
-    plt.ylabel('Frequency')  # Set the y-axis label.
+# Define a custom color palette with a range of distinct colors.
+custom_palette = sns.color_palette("husl", len(numerical_columns))
+
+# Create histograms to visualize the distribution of numerical columns with different colors for each bar.
+for i, column in enumerate(numerical_columns):
+    plt.figure(figsize=(8, 6))  # Create a new plot with specified size.
+    
+    # Create a histogram (histplot) using Seaborn for the current numerical column.
+    sns.histplot(data=df, x=column, bins=20, kde=True, color=custom_palette[i])
+    
+    plt.xlabel(column)  # Set the x-axis label to the name of the column.
+    plt.ylabel('Frequency')  # Set the y-axis label to 'Frequency'.
     plt.title(f'Distribution of {column}')  # Set the title of the plot.
-    output_path = os.path.join(output_directory, f'{column}_countplot.png')  # Define the output file path.
-    plt.savefig(output_path)  # Save the plot as an image.
+    
+    # Define the output file path by joining the output directory and a filename based on the column name.
+    output_path = os.path.join(output_directory, f'{column}_countplot.png')
+    
+    plt.savefig(output_path)  # Save the plot as an image at the specified output path.
     plt.show()  # Display the plot.
     plt.close()  # Close the current plot to prepare for the next one.
