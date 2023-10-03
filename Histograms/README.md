@@ -40,7 +40,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -56,7 +56,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -71,7 +71,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -86,7 +86,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -101,7 +101,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -116,7 +116,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -131,7 +131,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -146,7 +146,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -162,7 +162,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -177,7 +177,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -193,7 +193,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -208,7 +208,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -224,7 +224,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 ---
@@ -241,7 +241,7 @@
         <ul>
           <li>GitHub repository: <code>EDA</code></li>
             <li>Directory: <code>Histograms</code></li>
-            <li>File: <code>data_set.py</code></li>
+            <li>File: <code>visualize_numerical_data.py</code></li>
         </ul>
 
 
